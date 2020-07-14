@@ -1,6 +1,6 @@
 # Housing_Price_Project
 
-This project uses machine learning tools to predict house prices using data published by [Kaggle](https://www.kaggle.com/c/home-data-for-ml-course/overview). 
+This project uses machine learning tools to predict house prices using data published by [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview). 
 The goal of the project is to understand what are the most important factors that determine the value of a house, therefore to assist home sellers in increasing their home values and help home buyers gauge whether or not the house is overpriced. 
 
 Project scope encompassed exploratory data analysis, data cleaning, feature engineering, regularized linear regression and tree-based model (gradient boosting) training, hyperparameters tuning and model ensembling using Python
